@@ -1,4 +1,7 @@
-### Hi there, my name is Daniel Pryakhin
+### Hi there![image](https://github.com/pepelacon/pepelacon/assets/117035955/2fa39f1b-5f48-4693-b89b-a250e143d543)
+, my name is Daniel Pryakhin
+
+Full-Stack Developer
 
 I have been interested in coding for a while and finally decided to take the step by joining the Flatiron Software Engineer course. Through this rigorous curriculum, I learned many skills including Javascript, React, Python, Flask and OOP.
 
