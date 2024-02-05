@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Daniel Pryakhin
+
+I have been interested in coding for a while and finally decided to take the step by joining the Flatiron Software Engineer course. Through this rigorous curriculum, I learned many skills including Javascript, React, Python, Flask and OOP.
+
 
 <!--
 **pepelacon/pepelacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
